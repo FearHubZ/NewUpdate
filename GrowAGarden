@@ -1,2 +1,2 @@
-wait("1.2")
+wait("5.0")
 loadstring(game:HttpGet("https://pastefy.app/jQQsw1D1/raw"))()
